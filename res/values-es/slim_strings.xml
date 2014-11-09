@@ -16,10 +16,10 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <string name="account_settings_notify_every_message_label">Notificación por cada mensaje</string>
+  <string name="account_settings_notify_every_message_label">Notificación en cada mensaje</string>
   <string name="account_setup_options_mail_check_frequency_2hour">Cada 2 horas</string>
   <string name="account_setup_options_mail_check_frequency_4hour">Cada 4 horas</string>
   <string name="account_setup_options_mail_check_frequency_1day">Cada día</string>
-  <string name="account_settings_heads_up_label">Habilitar modo \"heads up\"</string>
-  <string name="account_settings_heads_up_summary">Mostrar las notificaciones entrantes como \"heads up\" para esta cuenta</string>
+  <string name="account_settings_heads_up_label">Habilitar modo de aviso</string>
+  <string name="account_settings_heads_up_summary">Mostrar las notificaciones entrantes, de esta cuenta, como avisos</string>
 </resources>
