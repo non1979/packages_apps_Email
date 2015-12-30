@@ -16,10 +16,10 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <string name="account_settings_notify_every_message_label">Notificar para toda mensagem</string>
-  <string name="account_setup_options_mail_check_frequency_2hour">A cada 2 horas</string>
-  <string name="account_setup_options_mail_check_frequency_4hour">A cada 4 horas</string>
-  <string name="account_setup_options_mail_check_frequency_1day">A cada dia</string>
-  <string name="account_settings_heads_up_label">Ativar modo heads up</string>
-  <string name="account_settings_heads_up_summary">Mostrar notificação recebida para esta conta como heads up</string>
+  <string name="account_settings_notify_every_message_label">Obavijesti za svaku poruku</string>
+  <string name="account_setup_options_mail_check_frequency_2hour">Svaka 2 sata</string>
+  <string name="account_setup_options_mail_check_frequency_4hour">Svaka 4 sata</string>
+  <string name="account_setup_options_mail_check_frequency_1day">Svaki dan</string>
+  <string name="account_settings_heads_up_label">Aktivirati modus Heads-Up poruka</string>
+  <string name="account_settings_heads_up_summary">Prikaži dolazeće poruke na ovaj korisnički račun kao Heads-Up poruke</string>
 </resources>
